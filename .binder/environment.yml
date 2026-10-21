@@ -1,0 +1,17 @@
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - requests
+  - pandas
+  - xarray
+  - netcdf4
+  - h5netcdf
+  - dask
+  - matplotlib
+  - cartopy
+  - fsspec
+  - seaborn
+  - basemap
+  - ipykernel
+  - pyfive
